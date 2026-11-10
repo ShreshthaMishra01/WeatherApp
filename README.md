@@ -115,4 +115,8 @@ Through this project, I learned:
 
 ---
 
+## 🌐 Live Demo
+
+[Click here to view Weather App](https://fastidious-phoenix-4e50af.netlify.app/)
+
 ⭐ If you find this project useful, consider giving it a star!
